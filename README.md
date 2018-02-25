@@ -1,10 +1,9 @@
 # Liederbuch Template
 
-
 ## Einleitung
 
 Dieses Template ist im Rahmen der Jugendarbeit des Arbeitskreises Roverstufe des Diözesanverband Freiburg der Deutschen Pfadfinderschaft Sankt Georg zwischen 2017 und 2018 entstanden.
-Viele Stunden sind in das zusammenfrickeln eines ansehbaren LATEX-Template entstanden. Es wäre schade wenn nicht noch jemand anderes dieses nutzen könnte. Wenn dir auffällt, dass wir etwas hätten besser lösen können freuen wir uns über deinen Input.
+Viele Stunden sind in das zusammenfrickeln eines ansehbaren LateX-Templates geflossen. Es wäre schade, wenn nicht noch jemand anderes dieses nutzen könnte. Wenn dir auffällt, dass wir etwas hätten besser lösen können, freuen wir uns über deinen Input.
 
 ## Features
 
