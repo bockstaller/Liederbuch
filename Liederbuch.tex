@@ -51,8 +51,13 @@
 \setcounter{secnumdepth}{0}
 
 \setlength\parskip{1\baselineskip plus 1\baselineskip minus 0.15\baselineskip}
+
 \titleformat{\chapter}[display]  
 {\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{15pt}{\Huge}   
+
+\titleformat{\section}[display]
+{\normalfont\normalfont\bfseries}{\chaptertitlename\ \thechapter}{15pt}{\Large}
+
 \titlespacing*{\chapter}{0pt}{-15mm}{5mm}
 \titlespacing*{\section}{0mm}{0mm}{-5mm}
 \fancypagestyle{plain}{\fancyhf{}%
@@ -141,10 +146,7 @@
     %Leerer hinterer Klappentext
     \cleardoublepage
     %Letzte Seite
-    \includepdf[scale=1.1]{Bilder/klappentext_modern.pdf}
+    \includepdf[scale=1.1]{bilder/klappentext_modern.pdf}
     
+\end{document}
 
-
-
-    \end{document}
-    
