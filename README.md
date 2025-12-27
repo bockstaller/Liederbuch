@@ -1,3 +1,9 @@
+> [!WARNING]  
+> Eine Neue Version des Liederbuch Templates ist [hier](https://github.com/bockstaller/liederbuchv2) veröffentlicht. 
+>Die neue Version unterstützt nun sowohl A5 sowie auch A6 parallel
+> 
+> Diese Version funktioniert weiterhin, für alle neuen Projekte empfehlen wir die v2.
+
 # Liederbuch Template
 
 ## Einleitung
